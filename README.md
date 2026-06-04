@@ -19,6 +19,17 @@
 
 <br/>
 
+## 🚀 Featured Projects
+
+- [**draconic-ai-meeting-summarizer**](https://github.com/Sainitesh10/draconic-ai-meeting-summarizer) — Live audio transcription and meeting insights built with React, FastAPI, and Gemini AI.
+- [**The-Gamers-Life**](https://github.com/Sainitesh10/The-Gamers-Life) — Modern full-stack gaming platform with game discovery and reviews | Next.js, Prisma, Tailwind.
+- [**portfolio**](https://github.com/Sainitesh10/portfolio) — An interactive retro-style terminal boot-screen developer portfolio | HTML, CSS, JS.
+- [**Vision-RAG**](https://github.com/Sainitesh10/Vision-RAG) — Zero-hallucination image and text Q&A using FAISS and Vision-Language Models. *(Frontend UI/UX)*
+- [**EcoScan-AI**](https://github.com/Sainitesh10/EcoScan-AI) — Waste classification app using Computer Vision for recycling guidance. *(Frontend UI/UX)*
+- [**AI_Resume_Analyzer**](https://github.com/Sainitesh10/AI_Resume_Analyzer) — ATS scoring and actionable resume feedback tool powered by NLP. *(Frontend UI/UX)*
+
+<br/>
+
 ## 🛠️ Tech Stack & Skills
 
 <p>
