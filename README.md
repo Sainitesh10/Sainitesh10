@@ -1,36 +1,47 @@
 <h1 align="center">Hi 👋, I'm Gudala Sai Nitesh</h1>
-<h3 align="center">A passionate 4th-year Computer Science Engineering student building impactful AI projects</h3>
+<h3 align="center">AI Engineer | CSE Student | Building Real AI Products</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/sai-nitesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-nitesh" height="30" width="40" /></a> <a href="https://sainitesh.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="portfolio" height="30" width="40" /></a> </p>
-
-- 🔭 I’m currently working on **AI/LLM application development, RAG pipelines, and MCP integrations**
-- 🌱 I’m currently learning **Advanced Prompt Engineering and Vector Databases**
-- 💬 Ask me about **Python, LangChain, FAISS, Next.js**
-- 📫 How to reach me **gudalasainitesh10@gmail.com**
-- ⚡ Fun fact **I built an AI agent that classifies waste via live camera input!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sai-nitesh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sai-nitesh" /></a>
-<a href="https://sainitesh.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-<a href="mailto:gudalasainitesh10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<p align="center">
+  I am a 4th-year Computer Science Engineering student specializing in Artificial Intelligence. I am passionate about building full-stack AI applications, ranging from RAG pipelines and LLM integrations to computer vision and intrusion detection systems. I am currently open to remote AI/ML engineering roles!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<p align="center">
+  <a href="https://sainitesh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/sai-nitesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gudalasainitesh10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
+<br/>
 
-### 🚀 Top Projects
+## 🛠️ Tech Stack & Skills
 
-*   **[Vision RAG](https://github.com/Sainitesh10/Vision-RAG)**: A zero-hallucination document Q&A system built with LangChain and FAISS. Reduces incorrect AI responses to 0% by implementing strict context grounding.
-*   **[EcoScan AI](https://github.com/Sainitesh10/EcoScan-AI)**: An AI agent that classifies waste via live camera input and generates step-by-step recycling instructions.
-*   **[AI Resume Analyzer](https://github.com/Sainitesh10/AI_Resume_Analyzer)**: A full-stack web app that parses resumes and delivers structured AI feedback using NLP models.
-*   **Neon Aegis**: A proactive Python security layer detecting intrusion attempts in real time and autonomously resolving minor vulnerabilities.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Computer_Vision-FF8C00?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+</p>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sainitesh10&show_icons=true&theme=radium&hide_border=true" alt="Sai Nitesh's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sainitesh10&theme=radium&hide_border=true" alt="Sai Nitesh's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainitesh10&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+</p>
